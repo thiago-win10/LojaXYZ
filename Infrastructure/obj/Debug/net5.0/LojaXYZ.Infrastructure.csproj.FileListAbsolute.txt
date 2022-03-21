@@ -1,0 +1,17 @@
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\obj\Debug\net5.0\LojaXYZ.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\obj\Debug\net5.0\LojaXYZ.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\obj\Debug\net5.0\LojaXYZ.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\obj\Debug\net5.0\LojaXYZ.Infrastructure.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\obj\Debug\net5.0\LojaXYZ.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\bin\Debug\net5.0\LojaXYZ.Infrastructure.deps.json
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\bin\Debug\net5.0\LojaXYZ.Infrastructure.runtimeconfig.json
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\bin\Debug\net5.0\LojaXYZ.Infrastructure.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\bin\Debug\net5.0\LojaXYZ.Infrastructure.dll
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\bin\Debug\net5.0\ref\LojaXYZ.Infrastructure.dll
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\bin\Debug\net5.0\LojaXYZ.Infrastructure.pdb
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\bin\Debug\net5.0\LojaXYZ.Entidades.dll
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\bin\Debug\net5.0\LojaXYZ.Entidades.pdb
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\obj\Debug\net5.0\LojaXYZ.Infrastructure.dll
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\obj\Debug\net5.0\ref\LojaXYZ.Infrastructure.dll
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\obj\Debug\net5.0\LojaXYZ.Infrastructure.pdb
+C:\Users\Thiago\Desktop\c#\LojaXYZ\Infrastructure\obj\Debug\net5.0\LojaXYZ.Infrastructure.genruntimeconfig.cache

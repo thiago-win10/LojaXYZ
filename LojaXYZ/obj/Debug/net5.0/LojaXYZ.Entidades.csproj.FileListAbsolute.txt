@@ -1,0 +1,12 @@
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\bin\Debug\net5.0\LojaXYZ.Entidades.deps.json
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\bin\Debug\net5.0\LojaXYZ.Entidades.dll
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\bin\Debug\net5.0\ref\LojaXYZ.Entidades.dll
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\bin\Debug\net5.0\LojaXYZ.Entidades.pdb
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\obj\Debug\net5.0\LojaXYZ.Entidades.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\obj\Debug\net5.0\LojaXYZ.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\obj\Debug\net5.0\LojaXYZ.Entidades.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\obj\Debug\net5.0\LojaXYZ.Entidades.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\obj\Debug\net5.0\LojaXYZ.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\obj\Debug\net5.0\LojaXYZ.Entidades.dll
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\obj\Debug\net5.0\ref\LojaXYZ.Entidades.dll
+C:\Users\Thiago\Desktop\c#\LojaXYZ\LojaXYZ\obj\Debug\net5.0\LojaXYZ.Entidades.pdb
